@@ -1,4 +1,4 @@
 # myDemo
 This is my first Git Repository
 <br>
-Author - Yasmeen
+Author - Yasmeen Khatoon
